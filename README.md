@@ -12,3 +12,7 @@ It evaluates passwords based on common security rules like length, uppercase, lo
 ## 💻 Usage
 ```bash
 python password_checker.py
+
+## 📽️ Demo Video
+[▶️ Watch Demo] ( )
+
